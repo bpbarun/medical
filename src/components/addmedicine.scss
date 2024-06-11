@@ -1,0 +1,37 @@
+.leadGeneration-content {
+    .top-right-btn {
+        width: 8rem;
+        margin: 1rem;
+    }
+
+    .form-label {
+        margin-top: 0.5rem;
+    }
+
+    .fa-cloud-upload {
+        font-size: 3rem;
+    }
+
+    .tableImage {
+        width: 8rem;
+        height: 4rem;
+    }
+
+    .uploadBtn {
+        margin-left: 50%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .generate-offer-letter{
+        margin-left: 38%;
+        margin-bottom: 2rem;
+    }
+}
+
+.ag-cell:focus {
+    border: none !important;
+    outline: none;
+}
+.show-extra-checkbox{
+    margin-left: 1rem !important;
+}
